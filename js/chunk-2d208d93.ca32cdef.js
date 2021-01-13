@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d208d93"],{a718:function(n,o){n.exports="`options` 对象可以对表格进行配置，其中 `stripe` 属性可以创建带斑马纹的表格。它接受一个 `Boolean` ，设置为 `true` 即为启用。代码如下：\r\n"}}]);
