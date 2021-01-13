@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22636b"],{e868:function(n,o,p){n.exports=p.p+"img/logox@2x.860f9a80.png"}}]);
