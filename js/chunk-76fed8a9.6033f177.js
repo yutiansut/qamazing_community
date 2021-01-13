@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-76fed8a9"],{b64ba:function(n,o){n.exports="数据结构比较复杂的时候，可使用多级表头来展现数据的层次关系，只需在 `columns` 中使用 `children` 字段对子级表头进行嵌套即可。代码如下：\r\n"}}]);
